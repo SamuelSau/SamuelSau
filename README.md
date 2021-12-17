@@ -1,4 +1,11 @@
-<p align=center> Hello there! </p>
+<p align="center">
+
+<img width="200" height="200" src="https://user-images.githubusercontent.com/66132436/146479541-5de04692-5192-4bea-bf95-55c2b43a19cc.png" alt="my banner">
+                                                                                                                                                      
+</p> 
+                                                                                                                                                      
+Hello there! 
+
 I'm Samuel. Passionate learner for Machine Learning and a student at the University of South Florida studying Computer Science.
 
 <!--
