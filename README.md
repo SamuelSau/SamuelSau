@@ -1,4 +1,5 @@
-### Hi there 👋
+<p align=center> Hello there! </p>
+I'm Samuel. Passionate learner for Machine Learning and a student at the University of South Florida studying Computer Science.
 
 <!--
 **SamuelSau/SamuelSau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
