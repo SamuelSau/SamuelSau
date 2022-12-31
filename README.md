@@ -3,10 +3,6 @@
                                                                                                                                                    
 ### <p align="center"> Hello, I'm Samuel. </p> <br>
 
-Aspiring Web Developer
-
-Computer Science Student at University of South Florida
-
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-sau-8ab7b0206/)
 
