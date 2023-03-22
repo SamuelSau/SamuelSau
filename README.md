@@ -1,7 +1,7 @@
                                                                                                                                                    
-### <h1 align="center"> Hello, I'm Samuel. </h1>
+<h1 align="center"> Hello, I'm Samuel. </h1>
 
-## Connect with me ##
+### CONNECT AT ###
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-sau-8ab7b0206/)
 
 ### LANGUAGES ###
@@ -22,6 +22,7 @@
 ### HOSTING ###
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### FRAMEWORKS ###
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
