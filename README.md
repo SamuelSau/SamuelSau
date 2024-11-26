@@ -1,5 +1,5 @@
                                                                                                                                                    
-<h1 align="center"> Hello, I'm Samuel. </h1>
+<h1 align="center"> Hello </h1>
 
 ### CONNECT AT ###
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-sau-8ab7b0206/)
